@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root><zyczenia>
+    <tytul>nowe</tytul>
+    <tresc>Zyczonka</tresc>
+    <podpis>twoj stary</podpis>
+</zyczenia>
+<adresat>
+    <imie>Michal</imie>
+    <nazwisko>Kowalski</nazwisko>
+    <adres>mk@g.co</adres>
+</adresat>
+</root>
